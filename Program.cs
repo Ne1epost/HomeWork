@@ -10,15 +10,15 @@ int Max(int arg1, int arg2, int arg3)
 }
 
 
-int a1 =  15;
-int b1 = 21;
-int c1 = 39;
-int a2 = 12;
-int b2 = 23;
-int c2 = 33;
-int a3 = 13;
-int b3 = 23;
-int c3 = 33;
+int a1 = 2;
+int b1 = 3;
+int c1 = 7;
+int a2 = 44;
+int b2 = 5;
+int c2 = 78;
+int a3 = 22;
+int b3 = 3;
+int c3 = 9;
 
 int max1 = Max(a1, b1, c1);
 int max2 = Max(a2, b2, c2);
